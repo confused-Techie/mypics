@@ -1,0 +1,1 @@
+This is just a very jank way to get images. Simply creating an issue and linking the pictures gives me a stable and safe place to put them that I can then link anywhere. Wanted to do this much more than self-host and nobody should mind to much.
